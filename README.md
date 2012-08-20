@@ -1,6 +1,8 @@
 Python "Either" and "Maybe"
 ===========================
 
+https://github.com/kennknowles/python-either
+
 This library provides two fundamental near-trivial data structures for Python:
 
  * `Either` also known as "coproduct", "sum type", "variant", "tagged union", "disjoint union", etc: A value that comes from one of two sets
