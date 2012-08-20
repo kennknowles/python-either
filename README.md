@@ -1,5 +1,5 @@
-Python "Either"
-===============
+Python "Either" and "Maybe"
+===========================
 
 This library provides two fundamental near-trivial data structures for Python:
 
@@ -8,13 +8,20 @@ This library provides two fundamental near-trivial data structures for Python:
 
 Each is ~10 lines, mostly boilerplate, but now they are in one place in a library. 
 
+Further Reading:
+----------------
+
 If you are unfamiliar with these concepts, here is some reading from around the web:
+
+Either:
 
  * [Tagged union (Wikipedia)](http://en.wikipedia.org/wiki/Tagged_union)
  * [Either (Scala)](http://www.scala-lang.org/api/current/scala/Either.html)
  * [Boost.Variant (C++)](http://www.boost.org/doc/libs/1_50_0/doc/html/variant.html)
  * [Data.Either (Haskell)](http://www.haskell.org/ghc/docs/latest/html/libraries/base/Data-Either.html)
  * [std.variant (D)](http://dlang.org/phobos/std_variant.html)
+
+Maybe:
 
  * [Option (Scala)](http://www.scala-lang.org/api/current/scala/Option.html)
  * [Maybe (Java)](https://github.com/npryce/maybe-java)
